@@ -39,7 +39,7 @@ License
 This template is licensed under the MIT License. You are free to use, modify, and distribute it.
 
 Full Image: <br>
-<img src="./assets/img/page_preview.png" alt="JorneyJalsa" width="300">
+<img src="./assets/img/page_preview.png" alt="JorneyJalsa" width="200">
 
 
 <br><br>
